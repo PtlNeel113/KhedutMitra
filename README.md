@@ -1,6 +1,7 @@
 
 🌾 KhedutMitra
 Voice‑First, Multilingual Digital Ecosystem for Indian Agriculture
+
 🚀 Live Demo: https://khedutmitra-gdg.vercel.app/
 
 Built for farmers, not for forms.
